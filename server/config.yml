@@ -1,0 +1,7 @@
+tables:
+  - name: Test Table
+    primaryKey: text_column
+    tableId: 2655990
+    hiddenFields:
+      - id
+      - hidden_field_test
